@@ -1,0 +1,13 @@
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.ttf binary
+
+# Resource directories
+src/main/resources/** binary
+
+# Ensure line endings are normalized
+* text=auto 
